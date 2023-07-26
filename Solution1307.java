@@ -1,6 +1,6 @@
 import java.lang.Math;
 
-class Solution {
+class Solution1307 {
     public static String findChars(String[] words) {
         String ret = "";
         for (int i = 0; i < words.length; i++) {
